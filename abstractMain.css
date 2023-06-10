@@ -1,0 +1,812 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+
+
+/* sheet one */
+
+
+.sheet-1 {
+    background-color: #000000;
+    height: 72rem;
+    border-bottom-left-radius: 5rem;
+  border-bottom-right-radius: 5rem;
+  overflow: hidden;
+}
+
+
+.navbar {
+    height: 90px;
+    background-color: #000000;
+
+
+}
+
+.row .container p {
+    margin-bottom: -3rem;
+}
+
+.forabstract {
+    margin-left: 120px;
+    color: #fff;
+    font-size: 25px;
+    display: inline-block;
+}
+
+.forabstract:hover {
+    color: #999;
+}
+
+.signin-button {
+    border: none;
+    border-style: none;
+    background-color: #000000;
+    color: rgb(115, 115, 221);
+    font-size: 17px;
+    margin-right: 80px;
+}
+
+.signin-button:hover {
+    color: blue;
+}
+
+
+.container .row span {
+    display: block;
+    font-size: 9rem;
+    line-height: 8rem;
+
+    font-family: 'Gt super text, sans-serif';
+}
+.container .row .col-8{
+margin-top: 10rem;
+margin-left: -4rem;
+}
+
+
+
+
+
+.ST {
+margin-top: 3rem;
+    width: 10rem;
+    line-height: 3.5rem;
+    margin-left: 0rem;
+    border-radius: 8px;
+    font-size: 1.3rem;
+}
+
+.DL {
+    width: 10rem;
+    line-height: 3.5rem;
+    border-radius: 8px;
+    font-size: 1.3rem;
+    margin-left: .5rem;
+}
+
+.container .row .image {
+margin-top: 3rem;
+    display: flex;
+
+   
+}
+.container .row .image img{
+    width: 8rem;
+    margin-right: 2rem;
+}
+.container .row .sheet1photo{
+    width: 53rem;
+    height: 49rem;
+    margin-left: 5rem;
+    margin-top: 15rem;
+}
+.container .row p{
+    margin-top: 7rem;
+}
+ /*sheet two*/
+  
+ .sheet-2 {
+   
+    background-color: #dadbf1;
+    background-size: cover;
+    background-position: center;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+   padding-top: 70rem;
+   padding-bottom: 10rem;
+   
+  }
+  .DC{
+   margin-left: -5rem;
+  }
+ .sheet-2 p{
+   font-size: 80px;
+    margin-left: 10rem;
+  }
+
+  .sheet-2 .p1{
+    font-size: 80px;
+     margin-left: 10rem;
+     margin-top: -1.5rem;
+   } 
+
+.line1{
+  margin-bottom: -1rem;
+}
+.line2{
+  margin-top: -3rem;
+}
+
+.line3{
+  margin-top: -3rem;
+ 
+  }
+
+
+  .sheet-2 .row .column p{
+    font-size: 20px;
+    margin-top: 100px;
+  font-weight: bold;
+    
+  }
+ .sheet-2 .row .column .p1{
+    margin-top: 0rem;
+    font-weight:normal;
+  }
+
+  .row {
+    display: flex;
+
+}
+
+.column {
+    flex: 1;
+  margin-left: -5rem;
+  margin-right: 5rem;
+
+}
+
+.sheet-2 .row .column img{
+  width:90px;
+  height: 60px;
+  margin-bottom: -9rem;
+  margin-left: 9rem;
+}
+
+/*sheet three*/
+  
+.sheet-3 {
+    
+    background-color:#fff;
+    background-size: cover;
+    background-position: center;
+
+
+  }
+  .sheet-3 p{
+   padding-top: 40rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  width:100%;
+  }
+.sheet-3 .row{
+  
+  width: 90%;
+margin-left: 4.2rem;
+
+}
+
+.sheet-3 .row .col-4 .card{
+  height:23rem;
+  border: #000000 solid 2px;
+
+}
+
+.sheet-3 .row .col-4 .row1{
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+.sheet-3 .col-4 .card .card-header{
+  background-color:#e3dbd5;
+  height: 10rem;
+  text-align: center;
+ padding-top:20%;
+ font-size: 2rem;
+ border-bottom: #000000 solid 2px;
+
+}
+.sheet-3 .col-4 .card .card-header img{
+  width:7rem;
+  object-fit: cover;
+margin-top: -2rem;
+}
+.sheet-3 .card-footer{
+  color: #4c5fd5;
+  text-decoration: underline;
+  font-size: 13px;
+  border-top: #000000 solid 2px;
+}
+
+.sheet-3 .card-footer:hover{
+  
+  text-decoration: none;
+
+}
+
+.sheet-3 .card-body{
+  padding:0rem;
+     }
+
+ .card3 .col-6{
+    padding-top: 2rem;
+ }    
+/*sheet four*/
+.sheet-4{
+  
+    width: 100%;
+    background-color:#F6F7F7;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 6rem;
+  }
+  .sheet-4 h1{
+    margin-top: 6rem;
+    text-align: center;
+    font-size: 5rem;
+    font-weight:400;
+  }
+  .sheet-4 p{
+margin-top: 2rem;
+margin-bottom: 3rem;
+   text-align: center;
+   font-size: 1.5rem;
+   font-weight: 400;
+   width:100%;
+   line-height: 2.2rem;
+   
+   }
+   .sheet-4 p span{
+    display: block;
+   }
+   .sheet-4 .row{
+  
+    width: 90%;
+  margin-left: 4.2rem;
+  
+  }
+  
+  .sheet-4 .row .col-4 .card{
+    width: 23rem;
+    height:23rem;
+    border: #000000 solid 2px;
+ 
+  }
+  
+  .sheet-4 .row .col-4 .row1{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+  }
+  .sheet-4 .col-4 .card .card-header{
+    background-color:#e3dbd5;
+    height: 10rem;
+    text-align: center;
+   padding-top:20%;
+   font-size: 2rem;
+   border-bottom: #000000 solid 2px;
+  
+  }
+  .sheet-4 .col-4 .card .card-header img{
+    width:7rem;
+    object-fit: cover;
+  margin-top: -2rem;
+  }
+  .sheet-4 .card-footer{
+    color: #4c5fd5;
+    text-decoration: underline;
+    font-size: 13px;
+    border-top: #000000 solid 2px;
+  }
+  
+  .sheet-4 .card-footer:hover{
+    
+    text-decoration: none;
+  
+  }
+  
+  .sheet-4 .card-body{
+    padding:0rem;
+       }
+  
+   .card4 .col-6{
+      padding-top: 1rem;
+   
+  }
+  /*sheet five*/
+  .sheet-5{
+    margin-top: 20rem;
+    height:30rem;
+    width:100%;
+background-color: #DADBF1; 
+   }
+   .sheet-5 h1{
+    padding-top: 12rem;
+    margin-bottom: 3rem;
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 300;
+   }
+.sheet-5 button{
+  border: none;
+  min-height: 4rem;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    background-color: #4c5fd5;
+    border-radius: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    margin-left: 37rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: 1.5rem;
+    line-height: 1rem;
+    transition: box-shadow .1s;
+    display: flex;
+    position: relative;
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0), inset 0 0 0 10rem rgba(0, 0, 0, 0);
+}
+/*sheet six*/
+.sheet-6{
+    height:25rem;
+    width:100%;
+background-color:#000000; 
+   }
+   .sheet-6 .firstcol h1{
+color: #fff;
+font-size: 35px;
+padding-top: 5rem;
+margin-bottom: 9rem;
+padding-left: 7rem;
+   }
+
+   .sheet-6 .firstcol  span{
+    display:block;
+    color: #999;
+    padding-left: 7rem;
+    font-size:13px;
+   }
+   .sheet-6 .secondcol {
+    padding-top: 5rem;
+    display: flex;
+    flex-direction: row;
+   gap: 4rem;
+   
+   }
+   .sheet-6 .secondcol h1{
+    color: #fff;
+    font-size:20px;
+   }
+   .sheet-6 .secondcol span{
+    color: #999;
+    display: block;
+    font-size: 15px;
+   
+    margin:10px;
+   }
+   .sheet-6 .secondcol .smalldiv h1{
+font-size: 23px;
+color: #fff;
+margin-top: 1rem;
+   }@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+
+
+
+
+.parallax-container {
+   
+
+overflow-x:hidden;
+  
+  }
+  /* sheet one */
+  
+  .sheet-1{
+    background-color:#000000;
+    height:72rem;
+    width:100%;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+  padding-right:10rem;
+
+  
+  }
+
+
+.navbar{
+    height:90px;
+    background-color:#000000;
+  
+
+}
+.sheet-1 .container p{
+  margin-bottom: -3rem;
+}
+.forabstract{
+margin-left: 120px;
+color: #fff;
+font-size: 25px;
+display: inline-block;
+}
+  .forabstract:hover{
+    color: #999;
+  }
+  
+  .signin-button{
+    border: none;
+    border-style: none;
+    background-color: #000000;
+    color: rgb(115, 115, 221);
+    font-size: 17px;
+    margin-right:80px;
+  }
+.signin-button:hover{
+    color:blue;
+}
+.col1{
+    
+    font-size: 130px;
+    line-height: 7.5rem;
+   padding-top: 10rem;
+ 
+  
+}
+.container .row span{
+    display: block;
+}
+.sheet1photo{
+    width:50rem;
+    height:50rem;
+    margin-left: 8rem;
+}
+
+.col2{
+    padding-top: 14rem;
+}
+
+
+.ST{
+ 
+    width:9rem;
+   line-height: 3.5rem;
+    margin-left: 0rem;
+    border-radius: 8px;
+font-size: 1.3rem;
+}
+
+.DL{
+    width: 9rem;
+    line-height: 3.5rem;
+    border-radius: 8px;
+    font-size: 1.3rem;
+    margin-left: .5rem;
+}
+
+.container .row .col1 p{
+    font-size: 20px;
+    margin-top: 3rem;
+}
+
+.container .row .col1 .span2{
+    font-size: 20px;
+    display: inline-block;
+   
+}
+.sheet-1 .image img{
+  width: 7rem;
+  
+}
+
+
+
+
+  /*sheet two*/
+  
+  .sheet-2 {
+    height:65rem;
+    width: 100%;
+    background-color: #dadbf1;
+    background-size: cover;
+    background-position: center;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+   padding-top: 400px;
+   
+  }
+  .DC{
+   margin-left: -5rem;
+  }
+ .sheet-2 p{
+   font-size: 80px;
+    margin-left: 10rem;
+  }
+
+  .sheet-2 .p1{
+    font-size: 80px;
+     margin-left: 10rem;
+     margin-top: -1.5rem;
+   } 
+
+.line1{
+  margin-bottom: -1rem;
+}
+.line2{
+  margin-top: -3rem;
+}
+
+.line3{
+  margin-top: -3rem;
+ 
+  }
+
+
+  .sheet-2 .row .column p{
+    font-size: 20px;
+    margin-top: 100px;
+  font-weight: bold;
+    
+  }
+ .sheet-2 .row .column .p1{
+    margin-top: 0rem;
+    font-weight:normal;
+  }
+
+  .row {
+    display: flex;
+
+}
+
+.column {
+    flex: 1;
+  margin-left: -5rem;
+  margin-right: 5rem;
+
+}
+
+.sheet-2 .row .column img{
+  width:90px;
+  height: 60px;
+  margin-bottom: -9rem;
+  margin-left: 9rem;
+}
+
+
+
+
+
+
+
+  /*sheet three*/
+  
+  .sheet-3 {
+    height: 63rem;
+    width: 100%;
+    background-color:#fff;
+    background-size: cover;
+    background-position: center;
+
+  }
+  .sheet-3 p{
+   padding-top: 20rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 400;
+  width:100%;
+  }
+.sheet-3 .row{
+  
+  width: 90%;
+margin-left: 4.2rem;
+
+}
+.sheet-3 .col-6{
+ 
+}
+.sheet-3 .row .col-4 .card{
+  height:23rem;
+  border: #000000 solid 2px;
+}
+
+.sheet-3 .row .col-4 .row1{
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+.sheet-3 .col-4 .card .card-header{
+  background-color:#e3dbd5;
+  height: 10rem;
+  text-align: center;
+ padding-top:20%;
+ font-size: 2rem;
+ border-bottom: #000000 solid 2px;
+
+}
+.sheet-3 .col-4 .card .card-header img{
+  width:7rem;
+  object-fit: cover;
+margin-top: -2rem;
+}
+.sheet-3 .card-footer{
+  color: #4c5fd5;
+  text-decoration: underline;
+  font-size: 13px;
+  border-top: #000000 solid 2px;
+}
+
+.sheet-3 .card-footer:hover{
+  
+  text-decoration: none;
+
+}
+
+.sheet-3 .card-body{
+  padding:0rem;
+     }
+
+
+
+
+
+  /*sheet four*/
+  .sheet-4{
+    height: 50rem;
+    width: 100%;
+    background-color:#F6F7F7;
+    background-size: cover;
+    background-position: center;
+    
+  }
+  .sheet-4 h1{
+    padding-top: 6rem;
+    text-align: center;
+    font-size: 4rem;
+    font-weight:400;
+  }
+  .sheet-4 p{
+   margin-top: 1.5rem;
+   text-align: center;
+   font-size: 1.5rem;
+   font-weight: 400;
+   width:100%;
+   line-height: 2rem;
+   
+   }
+   .sheet-4 p span{
+    display: block;
+   }
+   .sheet-4 .row{
+  margin-top: 4rem;
+    width: 90%;
+  margin-left: 5rem;
+ 
+  }
+  
+  .sheet-4 .row .col-4 .card{
+    height:23rem;
+    width:22rem;
+   border: #000000 solid 2px;
+  
+  }
+  
+  .sheet-4 .row .col-4 .row1{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+  }
+  .sheet-4 .col-4 .card .card-header{
+    background-color:#F6F7F7;
+    height: 11rem;
+    text-align: center;
+object-fit:fill;
+   font-size: 2rem;
+   border-bottom: #000000 solid 2px;
+  }
+  
+  .sheet-4 .card-footer{
+    color: #4c5fd5;
+    font-weight: 500;
+    font-size: 13px;
+    border-top: #000000 solid 2px;
+  }
+  
+  .sheet-4 .col-4 img{
+    width:100%;
+   
+   
+   
+  }
+  
+   /*sheet five*/
+   .sheet-5{
+    height:25rem;
+    width:100%;
+background-color: #DADBF1; 
+   }
+   .sheet-5 h1{
+    padding-top: 5rem;
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 300;
+   }
+.sheet-5 button{
+  border: none;
+  min-height: 4rem;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    background-color: #4c5fd5;
+    border-radius: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    margin-left: 35rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: 1.5rem;
+    line-height: 1rem;
+    transition: box-shadow .1s;
+    display: flex;
+    position: relative;
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0), inset 0 0 0 10rem rgba(0, 0, 0, 0);
+}
+
+
+
+
+
+
+
+
+   /*sheet six*/
+   .sheet-6{
+    height:25rem;
+    width:100%;
+background-color:#000000; 
+   }
+   .sheet-6 .firstcol h1{
+color: #fff;
+font-size: 35px;
+padding-top: 5rem;
+margin-bottom: 9rem;
+padding-left: 7rem;
+   }
+
+   .sheet-6 .firstcol  span{
+    display:block;
+    color: #999;
+    padding-left: 7rem;
+    font-size:13px;
+   }
+   .sheet-6 .secondcol {
+    padding-top: 5rem;
+    display: flex;
+    flex-direction: row;
+   gap: 4rem;
+   
+   }
+   .sheet-6 .secondcol h1{
+    color: #fff;
+    font-size:20px;
+   }
+   .sheet-6 .secondcol span{
+    color: #999;
+    display: block;
+    font-size: 15px;
+   
+    margin:10px;
+   }
+   .sheet-6 .secondcol .smalldiv h1{
+font-size: 23px;
+color: #fff;
+margin-top: 1rem;
+   }
+   
